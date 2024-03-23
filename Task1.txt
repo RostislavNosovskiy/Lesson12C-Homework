@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WetherData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Current>
+    <Time>2023-06-18T19:35:06.722127+03:00</Time>
+    <Temperature>29</Temperature>
+    <Wethercode>0</Wethercode>
+    <Windspeed>2.1</Windspeed>
+    <Winddirection>1</Winddirection>
+  </Current>
+  <History>
+    <WetherInfo>
+      <Time>2023-06-17T19:35:06.77707+03:00</Time>
+      <Temperature>29</Temperature>
+      <Wethercode>0</Wethercode>
+      <Windspeed>2.4</Windspeed>
+      <Winddirection>1</Winddirection>
+    </WetherInfo>
+    <WetherInfo>
+      <Time>2023-06-16T19:35:06.777081+03:00</Time>
+      <Temperature>22</Temperature>
+      <Wethercode>0</Wethercode>
+      <Windspeed>2.4</Windspeed>
+      <Winddirection>1</Winddirection>
+    </WetherInfo>
+    <WetherInfo>
+      <Time>2023-06-15T19:35:06.777082+03:00</Time>
+      <Temperature>21</Temperature>
+      <Wethercode>0</Wethercode>
+      <Windspeed>2.2</Windspeed>
+      <Winddirection>1</Winddirection>
+    </WetherInfo>
+  </History>
+</WetherData>
